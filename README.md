@@ -1,2 +1,2 @@
 # WiproAssignmnet
-This contains all the Tech Module for new Student who join the company in 2020
+This contains all the Tech Module for fresher who join the company in 2020
